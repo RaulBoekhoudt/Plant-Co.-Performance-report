@@ -45,7 +45,7 @@ At a high level, the dashboard lets you pick a **year** and a **metric** (Sales 
   - **GP%** (Gross Profit %)
   - **YTD** value (for the selected metric and year)
   - **PYTD** value (same metric, prior year-to-date)
-  - **Δ YTD vs PYTD** with conditional colouring (positive/negative)
+  - **YTD vs PYTD** with conditional colouring (positive/negative)
 
 **Idea:** one consistent layout that supports quick YoY performance checks for any metric.
 

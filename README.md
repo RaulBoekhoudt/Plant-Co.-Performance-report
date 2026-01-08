@@ -33,6 +33,7 @@ At a high level, the dashboard lets you pick a **year** and a **metric** (Sales 
 ## Report walkthrough (what’s inside)
 
 ### 1) Controls (top section)
+
 ![Controls – year + metric selector + KPIs](Images/controls.png)
 
 - **Year selector (dropdown):** choose the year to analyse (e.g., 2023).
@@ -51,6 +52,7 @@ At a high level, the dashboard lets you pick a **year** and a **metric** (Sales 
 ---
 
 ### 2) Bottom 10 countries (treemap)
+
 ![Treemap – bottom 10 countries](Images/treemap_bottom10_countries.png)
 
 A treemap highlights the **bottom 10 countries** by the selected metric (YTD vs PYTD context), with data labels for quick scanning.
@@ -58,18 +60,22 @@ A treemap highlights the **bottom 10 countries** by the selected metric (YTD vs 
 ---
 
 ### 3) Monthly variance breakdown (waterfall + drilldown)
+
 ![Waterfall–month level](Images/waterfall_month.png)
 
 A waterfall chart shows **month-by-month variance** (YTD vs PYTD).  
 It supports drilldown to explain *why* a month changed:
 
 **Month → Country**
+
 ![Waterfall drilldown – country](Images/waterfall_drill_country.png)
 
 **Country → Product Type**
+
 ![Waterfall drilldown – product type](Images/waterfall_drill_product_type.png)
 
 **Product Type → Product**
+
 ![Waterfall drilldown – product](Images/waterfall_drill_product.png)
 
 This makes it easy to pinpoint drivers behind increases/decreases at each level (time, region, category, SKU).
@@ -77,6 +83,7 @@ This makes it easy to pinpoint drivers behind increases/decreases at each level 
 ---
 
 ### 4) YTD trend vs prior year (stacked columns + line)
+
 ![Stacked columns + line – YTD vs PYTD](Images/stacked_columns_line_ytd_pytd.png)
 
 A combined chart compares:
@@ -88,6 +95,7 @@ This helps you see both **seasonality** and **product mix contribution**, while 
 ---
 
 ### 5) Account profitability segmentation (scatter)
+
 ![Scatter – account profitability segmentation](Images/scatter_account_profitability.png)
 
 A scatter plot segments **customers (accounts)** by:

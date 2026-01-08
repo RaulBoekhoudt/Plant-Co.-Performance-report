@@ -1,3 +1,3 @@
 # Plant-Co.-Performance-report
 
-https://github.com/[RaulBoekhoudt]/[Plant-Co.-Performance-report]/blob/[main]/Performance_Report_Image.png?raw=true
+![Plant Co. Sales Performance Dashboard](Performance_Report_Image.png)

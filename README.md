@@ -6,7 +6,7 @@
 
 ## Overview
 This repository contains a **Power BI performance report** for *Plant Co.* covering **2022–2024**.  
-The report is designed as a recruiter-friendly portfolio piece that demonstrates end-to-end Power BI work: **data modelling, DAX measures, time-intelligence comparisons, and interactive report design**.
+The report is designed as a portfolio piece that demonstrates end-to-end Power BI work: **data modelling, DAX measures, time-intelligence comparisons, and interactive report design**.
 
 At a high level, the dashboard lets you pick a **year** and a **metric** (Sales / Gross Profit / Quantity) and then compares **YTD vs PYTD** (current year-to-date vs prior year-to-date) across geography, time, products, and customer profitability.
 
